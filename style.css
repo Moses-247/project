@@ -1,0 +1,27 @@
+.nav-titles 
+{
+    margin-left: 10%;
+}
+.nav-item
+{
+    display: inline-block;
+    padding: 4%;
+    font-size: 26px;
+    margin: 2%;
+}
+.button {
+    background-color: rgb(201, 137, 0);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+.nav-bar .nav-titles > li > a 
+{
+    color: rgba(138, 91, 4, 0.87);
+}
